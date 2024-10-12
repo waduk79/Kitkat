@@ -1137,6 +1137,12 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 <======================== Malaysia ==========================>
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"jkIAv1xNUj/wC/0XPQIWAg", "kid":"eExgN+WIjoQQbkEFn+KxEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="112.astro" ch-number="112" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" group-title="Malaysia" group-logo="https://i.postimg.cc/c47Hxwhw/Screenshot-2024-07-03-013103.jpg" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroRania.png",112 Rania 
+https://spectrum-cors-lim.kolorsempak.workers.dev/dash-wv/linear/608/default_primary.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
